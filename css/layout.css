@@ -47,7 +47,7 @@
 }
 
 #skate-shoes{
-    float: left;
+    /*float: left;*/
     display: inline-block;
     /*margin-left: 10px;*/
 
@@ -58,7 +58,7 @@
 }
 
  .col-1 {
-     width: 32%;
+     width: 32.5%;
  }
 
 .col-2 {
