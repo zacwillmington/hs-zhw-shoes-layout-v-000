@@ -37,6 +37,7 @@
  }
 
  #lady-bug {
+     float: left;
      display: inline-block;
      margin-left: 15px;
   }
