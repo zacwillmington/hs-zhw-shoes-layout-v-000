@@ -54,6 +54,7 @@
  #heels {
     display: inline-block;
     float: left;
+    margin-left: 10px;
 }
 
  .col-1 {
