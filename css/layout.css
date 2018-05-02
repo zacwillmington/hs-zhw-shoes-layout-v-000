@@ -39,13 +39,11 @@
  #lady-bug {
      float: left;
      display: inline-block;
-     margin-left: 15px;
   }
 
-/*.skate-shoes-heels {
-    display: inline-block;
-    float: left;
-}*/
+.shoe-images-info {
+    margin-top: 20px; 
+}
 
 #skate-shoes{
     float: left;
