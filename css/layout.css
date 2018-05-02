@@ -40,10 +40,10 @@
      display: inline-block;
   }
 
-.skate-shoes-heels {
+/*.skate-shoes-heels {
     display: inline-block;
     float: left;
-}
+}*/
 
 #skate-shoes{
     float: left;
@@ -51,7 +51,7 @@
 }
  #heels {
         display: inline-block;
-        float: right;
+        float: left;
 }
 
  .col-1 {
