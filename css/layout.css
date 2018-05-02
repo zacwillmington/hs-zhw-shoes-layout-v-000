@@ -46,6 +46,7 @@
 }
 
 #skate-shoes{
+    float: left;
     display: inline-block;
 }
  #heels {
