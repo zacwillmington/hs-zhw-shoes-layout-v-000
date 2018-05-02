@@ -42,21 +42,19 @@
   }
 
 .shoe-images-info {
-    margin-top: 20px; 
+    margin-top: 20px;
     width: 100%;
 }
 
 #skate-shoes{
     float: left;
     display: inline-block;
-    margin-left: 10px;
+    /*margin-left: 10px;*/
 
 }
  #heels {
         display: inline-block;
         float: left;
-        margin-left: 10px;
-
 }
 
  .col-1 {
